@@ -1,0 +1,17 @@
+.Navbar {
+    background-color: darkslateblue;
+    padding: 1rem;
+  }
+  
+.Navbar a {
+    font-size: 1.5rem;
+    margin: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+.Navbar a.active {
+    color: yellow;
+    font-weight: 700;
+    text-decoration: underline;
+}
